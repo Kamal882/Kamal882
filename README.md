@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamal882
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me skamaljeet882@gmail.com
 
